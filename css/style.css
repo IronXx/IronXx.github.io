@@ -4,7 +4,6 @@ body {
     left: 0;
     top: 0;
     width: 100%;
-    background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
     z-index: -1;
